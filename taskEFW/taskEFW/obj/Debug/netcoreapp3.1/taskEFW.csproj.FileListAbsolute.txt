@@ -1,0 +1,4 @@
+C:\Users\vgudipati\source\repos\taskEFW\taskEFW\bin\Debug\netcoreapp3.1\taskEFW.exe
+C:\Users\vgudipati\source\repos\taskEFW\taskEFW\obj\Debug\netcoreapp3.1\taskEFW.csprojAssemblyReference.cache
+C:\Users\vgudipati\source\repos\taskEFW\taskEFW\obj\Debug\netcoreapp3.1\taskEFW.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\taskEFW\taskEFW\obj\Debug\netcoreapp3.1\taskEFW.AssemblyInfo.cs

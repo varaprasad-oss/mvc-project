@@ -1,0 +1,9 @@
+﻿body {
+    background-color: blue;
+    background-clip:border-box;
+    font:100;
+}
+h1{
+    color:red;
+    font:bold 10px arial;
+}

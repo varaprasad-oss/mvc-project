@@ -1,0 +1,3 @@
+C:\Users\vgudipati\source\repos\enum\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\enum\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\enum\enum\obj\Debug\netcoreapp3.1\enum.csproj.CoreCompileInputs.cache

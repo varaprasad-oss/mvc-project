@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\threads\threads\obj\Debug\netcoreapp3.1\threads.csprojAssemblyReference.cache
+C:\Users\vgudipati\source\repos\threads\threads\obj\Debug\netcoreapp3.1\threads.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\threads\threads\obj\Debug\netcoreapp3.1\threads.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\threads\threads\obj\Debug\netcoreapp3.1\threads.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\threads\threads\bin\Debug\netcoreapp3.1\threads.exe
+C:\Users\vgudipati\source\repos\threads\threads\bin\Debug\netcoreapp3.1\threads.deps.json
+C:\Users\vgudipati\source\repos\threads\threads\bin\Debug\netcoreapp3.1\threads.runtimeconfig.json
+C:\Users\vgudipati\source\repos\threads\threads\bin\Debug\netcoreapp3.1\threads.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\threads\threads\bin\Debug\netcoreapp3.1\threads.dll
+C:\Users\vgudipati\source\repos\threads\threads\bin\Debug\netcoreapp3.1\threads.pdb
+C:\Users\vgudipati\source\repos\threads\threads\obj\Debug\netcoreapp3.1\threads.dll
+C:\Users\vgudipati\source\repos\threads\threads\obj\Debug\netcoreapp3.1\threads.pdb
+C:\Users\vgudipati\source\repos\threads\threads\obj\Debug\netcoreapp3.1\threads.genruntimeconfig.cache

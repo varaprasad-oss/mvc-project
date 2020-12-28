@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\collections.exe
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\collections.deps.json
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\collections.runtimeconfig.json
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\collections.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\collections.dll
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\collections.pdb
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\collections.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\collections.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\collections.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\collections.dll
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\collections.pdb
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\collections.genruntimeconfig.cache
+C:\Users\vgudipati\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\collections.csprojAssemblyReference.cache

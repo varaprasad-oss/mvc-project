@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\nov16\nov16\obj\Debug\netcoreapp3.1\nov16.csprojAssemblyReference.cache
+C:\Users\vgudipati\source\repos\nov16\nov16\obj\Debug\netcoreapp3.1\nov16.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\nov16\nov16\obj\Debug\netcoreapp3.1\nov16.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\nov16\nov16\obj\Debug\netcoreapp3.1\nov16.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\nov16\nov16\bin\Debug\netcoreapp3.1\nov16.exe
+C:\Users\vgudipati\source\repos\nov16\nov16\bin\Debug\netcoreapp3.1\nov16.deps.json
+C:\Users\vgudipati\source\repos\nov16\nov16\bin\Debug\netcoreapp3.1\nov16.runtimeconfig.json
+C:\Users\vgudipati\source\repos\nov16\nov16\bin\Debug\netcoreapp3.1\nov16.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\nov16\nov16\bin\Debug\netcoreapp3.1\nov16.dll
+C:\Users\vgudipati\source\repos\nov16\nov16\bin\Debug\netcoreapp3.1\nov16.pdb
+C:\Users\vgudipati\source\repos\nov16\nov16\obj\Debug\netcoreapp3.1\nov16.dll
+C:\Users\vgudipati\source\repos\nov16\nov16\obj\Debug\netcoreapp3.1\nov16.pdb
+C:\Users\vgudipati\source\repos\nov16\nov16\obj\Debug\netcoreapp3.1\nov16.genruntimeconfig.cache

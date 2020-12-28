@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\bin\Debug\netcoreapp3.1\interfaceexample.exe
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\bin\Debug\netcoreapp3.1\interfaceexample.deps.json
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\bin\Debug\netcoreapp3.1\interfaceexample.runtimeconfig.json
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\bin\Debug\netcoreapp3.1\interfaceexample.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\bin\Debug\netcoreapp3.1\interfaceexample.dll
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\bin\Debug\netcoreapp3.1\interfaceexample.pdb
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\obj\Debug\netcoreapp3.1\interfaceexample.csprojAssemblyReference.cache
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\obj\Debug\netcoreapp3.1\interfaceexample.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\obj\Debug\netcoreapp3.1\interfaceexample.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\obj\Debug\netcoreapp3.1\interfaceexample.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\obj\Debug\netcoreapp3.1\interfaceexample.dll
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\obj\Debug\netcoreapp3.1\interfaceexample.pdb
+C:\Users\vgudipati\source\repos\interfaceexample\interfaceexample\obj\Debug\netcoreapp3.1\interfaceexample.genruntimeconfig.cache

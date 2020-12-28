@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\par\par\bin\Debug\netcoreapp3.1\par.exe
+C:\Users\vgudipati\source\repos\par\par\bin\Debug\netcoreapp3.1\par.deps.json
+C:\Users\vgudipati\source\repos\par\par\bin\Debug\netcoreapp3.1\par.runtimeconfig.json
+C:\Users\vgudipati\source\repos\par\par\bin\Debug\netcoreapp3.1\par.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\par\par\bin\Debug\netcoreapp3.1\par.dll
+C:\Users\vgudipati\source\repos\par\par\bin\Debug\netcoreapp3.1\par.pdb
+C:\Users\vgudipati\source\repos\par\par\obj\Debug\netcoreapp3.1\par.csprojAssemblyReference.cache
+C:\Users\vgudipati\source\repos\par\par\obj\Debug\netcoreapp3.1\par.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\par\par\obj\Debug\netcoreapp3.1\par.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\par\par\obj\Debug\netcoreapp3.1\par.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\par\par\obj\Debug\netcoreapp3.1\par.dll
+C:\Users\vgudipati\source\repos\par\par\obj\Debug\netcoreapp3.1\par.pdb
+C:\Users\vgudipati\source\repos\par\par\obj\Debug\netcoreapp3.1\par.genruntimeconfig.cache

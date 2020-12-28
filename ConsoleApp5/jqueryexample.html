@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Creating IDs in Jquery </title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#div1").css("border", "10px solid yellow");
+        });
+            $(document).ready(function () {
+                $("#div2").css("border", "20px solid blue ");
+
+            });
+        $(document).ready(function () {
+                $("#p1").css("color", "red");
+            });
+        $(document).ready(function () {
+            $(".Class1").css("color", " black");
+
+        });
+    </script>
+
+</head>
+<body>
+    <h3>All Selectors</h3>
+
+    <div id="div1">
+        <p id="p1">
+            jQuery selector is used to select a particular type of element or
+            element of a particular
+            Id, or class used
+        </p>
+        <p class="Class1">
+            Class - jQuery selector is used to select a particular type of element
+            or element
+            of a particular Id, or class used
+        </p>
+    </div >
+    <div id="div2">
+        <p>Paragraph 1</p>
+        <p>Paragraph 2</p>
+        <p>Paragraph 3</p>
+    </div>
+    <input id="txtName" type="text" />
+    <!--<script language="javascript" type="text/javascript">
+ $(document).ready(function () {
+ $("*").css("border", "5px dashed red");
+ });
+    </script>-->
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\bin\Debug\netcoreapp3.1\threadspractice.exe
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\bin\Debug\netcoreapp3.1\threadspractice.deps.json
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\bin\Debug\netcoreapp3.1\threadspractice.runtimeconfig.json
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\bin\Debug\netcoreapp3.1\threadspractice.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\bin\Debug\netcoreapp3.1\threadspractice.dll
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\bin\Debug\netcoreapp3.1\threadspractice.pdb
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\obj\Debug\netcoreapp3.1\threadspractice.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\obj\Debug\netcoreapp3.1\threadspractice.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\obj\Debug\netcoreapp3.1\threadspractice.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\obj\Debug\netcoreapp3.1\threadspractice.dll
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\obj\Debug\netcoreapp3.1\threadspractice.pdb
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\obj\Debug\netcoreapp3.1\threadspractice.genruntimeconfig.cache
+C:\Users\vgudipati\source\repos\threadspractice\threadspractice\obj\Debug\netcoreapp3.1\threadspractice.csprojAssemblyReference.cache

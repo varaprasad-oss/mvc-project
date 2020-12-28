@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>creating the fadetoggle</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function ()
+        {
+            $("button").click(function () {
+                $("#div1").fadeToggle();
+                $("#div2").fadeToggle("slow");
+                $("#div3").fadeToggle(2000);
+
+            });
+
+        });
+    </script>
+</head>
+<body>
+    <p> creating the fadetoggle in the jquery</p>
+    <button>click me to aplly fade  in toggle</button>
+    <div id="div1" style="width:100px;height:100px;background:red"> Redsquare</div>
+    <div id="div2"style="width:100px;height:100px;background:green">Greensquare</div>
+    <div id="div3" style="width:100px;height:100px;background:blue">BlueColorSqaure</div>
+
+</body>
+</html>

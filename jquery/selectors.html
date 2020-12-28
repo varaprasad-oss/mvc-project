@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Implementing the selectors </title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            $("p.class1,#p1").css("border", "10px solid red");
+        });
+        alert($("#div2").html("This is the html tag"));
+
+    </script>
+</head>
+<body>
+    <div id="div2">
+        <p>This is implementation of the selectors of class and tags</p>
+        <h2 class="class1">Creating the class</h2>
+        <h1 id="p1">creating the ids i n jquery</h1>
+    </div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.exe
+C:\Users\vgudipati\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.deps.json
+C:\Users\vgudipati\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.runtimeconfig.json
+C:\Users\vgudipati\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.dll
+C:\Users\vgudipati\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.pdb
+C:\Users\vgudipati\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.dll
+C:\Users\vgudipati\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.pdb
+C:\Users\vgudipati\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.genruntimeconfig.cache
+C:\Users\vgudipati\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.csprojAssemblyReference.cache

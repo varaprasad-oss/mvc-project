@@ -1,0 +1,12 @@
+C:\Users\vgudipati\source\repos\nov91\nov91\bin\Debug\netcoreapp3.1\nov91.exe
+C:\Users\vgudipati\source\repos\nov91\nov91\bin\Debug\netcoreapp3.1\nov91.deps.json
+C:\Users\vgudipati\source\repos\nov91\nov91\bin\Debug\netcoreapp3.1\nov91.runtimeconfig.json
+C:\Users\vgudipati\source\repos\nov91\nov91\bin\Debug\netcoreapp3.1\nov91.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\nov91\nov91\bin\Debug\netcoreapp3.1\nov91.dll
+C:\Users\vgudipati\source\repos\nov91\nov91\bin\Debug\netcoreapp3.1\nov91.pdb
+C:\Users\vgudipati\source\repos\nov91\nov91\obj\Debug\netcoreapp3.1\nov91.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\nov91\nov91\obj\Debug\netcoreapp3.1\nov91.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\nov91\nov91\obj\Debug\netcoreapp3.1\nov91.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\nov91\nov91\obj\Debug\netcoreapp3.1\nov91.dll
+C:\Users\vgudipati\source\repos\nov91\nov91\obj\Debug\netcoreapp3.1\nov91.pdb
+C:\Users\vgudipati\source\repos\nov91\nov91\obj\Debug\netcoreapp3.1\nov91.genruntimeconfig.cache

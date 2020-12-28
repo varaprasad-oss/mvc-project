@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Jquery effcts </title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+        //    $("#hide").click(function () {
+        //        $("p").toggle(2000);
+        //    });
+            $("button").click(function ()
+            {
+                $("#div1").fadein();
+                $("#div2").fadein();
+                $("#div3").fadein();
+
+
+            });
+            
+  
+
+        });
+    </script>
+</head>
+<body>
+    <p>
+        THis is implementation of the toggle in the jquery
+    </p>
+    <!--<p> implementation of on and off using the toggle method in jquery</p>-->
+    <!--<button id="hide">Toggle</button>-->
+    <button>Click me to fadeit</button>
+    <div id="div1" style="width:100px;height:100px;background:red;"> fademe</div><br />
+    <div id="div2" style="width:100px;height:100px;background:green;">fade me</div><br />
+    <div id="div3" style="width:100px;height:100px;background:blue;"> fade me</div>
+
+
+</body>
+</html>

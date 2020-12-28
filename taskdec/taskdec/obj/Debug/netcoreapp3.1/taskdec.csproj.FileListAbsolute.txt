@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\taskdec\taskdec\bin\Debug\netcoreapp3.1\taskdec.exe
+C:\Users\vgudipati\source\repos\taskdec\taskdec\bin\Debug\netcoreapp3.1\taskdec.deps.json
+C:\Users\vgudipati\source\repos\taskdec\taskdec\bin\Debug\netcoreapp3.1\taskdec.runtimeconfig.json
+C:\Users\vgudipati\source\repos\taskdec\taskdec\bin\Debug\netcoreapp3.1\taskdec.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\taskdec\taskdec\bin\Debug\netcoreapp3.1\taskdec.dll
+C:\Users\vgudipati\source\repos\taskdec\taskdec\bin\Debug\netcoreapp3.1\taskdec.pdb
+C:\Users\vgudipati\source\repos\taskdec\taskdec\obj\Debug\netcoreapp3.1\taskdec.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\taskdec\taskdec\obj\Debug\netcoreapp3.1\taskdec.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\taskdec\taskdec\obj\Debug\netcoreapp3.1\taskdec.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\taskdec\taskdec\obj\Debug\netcoreapp3.1\taskdec.dll
+C:\Users\vgudipati\source\repos\taskdec\taskdec\obj\Debug\netcoreapp3.1\taskdec.pdb
+C:\Users\vgudipati\source\repos\taskdec\taskdec\obj\Debug\netcoreapp3.1\taskdec.genruntimeconfig.cache
+C:\Users\vgudipati\source\repos\taskdec\taskdec\obj\Debug\netcoreapp3.1\taskdec.csprojAssemblyReference.cache

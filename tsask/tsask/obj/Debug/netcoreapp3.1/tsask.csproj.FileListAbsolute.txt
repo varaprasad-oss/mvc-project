@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\tsask\tsask\obj\Debug\netcoreapp3.1\tsask.csprojAssemblyReference.cache
+C:\Users\vgudipati\source\repos\tsask\tsask\obj\Debug\netcoreapp3.1\tsask.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\tsask\tsask\obj\Debug\netcoreapp3.1\tsask.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\tsask\tsask\obj\Debug\netcoreapp3.1\tsask.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\tsask\tsask\bin\Debug\netcoreapp3.1\tsask.exe
+C:\Users\vgudipati\source\repos\tsask\tsask\bin\Debug\netcoreapp3.1\tsask.deps.json
+C:\Users\vgudipati\source\repos\tsask\tsask\bin\Debug\netcoreapp3.1\tsask.runtimeconfig.json
+C:\Users\vgudipati\source\repos\tsask\tsask\bin\Debug\netcoreapp3.1\tsask.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\tsask\tsask\bin\Debug\netcoreapp3.1\tsask.dll
+C:\Users\vgudipati\source\repos\tsask\tsask\bin\Debug\netcoreapp3.1\tsask.pdb
+C:\Users\vgudipati\source\repos\tsask\tsask\obj\Debug\netcoreapp3.1\tsask.dll
+C:\Users\vgudipati\source\repos\tsask\tsask\obj\Debug\netcoreapp3.1\tsask.pdb
+C:\Users\vgudipati\source\repos\tsask\tsask\obj\Debug\netcoreapp3.1\tsask.genruntimeconfig.cache

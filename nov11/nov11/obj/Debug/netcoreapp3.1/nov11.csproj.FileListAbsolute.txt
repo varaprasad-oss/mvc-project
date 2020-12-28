@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\nov11\nov11\bin\Debug\netcoreapp3.1\nov11.exe
+C:\Users\vgudipati\source\repos\nov11\nov11\bin\Debug\netcoreapp3.1\nov11.deps.json
+C:\Users\vgudipati\source\repos\nov11\nov11\bin\Debug\netcoreapp3.1\nov11.runtimeconfig.json
+C:\Users\vgudipati\source\repos\nov11\nov11\bin\Debug\netcoreapp3.1\nov11.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\nov11\nov11\bin\Debug\netcoreapp3.1\nov11.dll
+C:\Users\vgudipati\source\repos\nov11\nov11\bin\Debug\netcoreapp3.1\nov11.pdb
+C:\Users\vgudipati\source\repos\nov11\nov11\obj\Debug\netcoreapp3.1\nov11.csprojAssemblyReference.cache
+C:\Users\vgudipati\source\repos\nov11\nov11\obj\Debug\netcoreapp3.1\nov11.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\nov11\nov11\obj\Debug\netcoreapp3.1\nov11.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\nov11\nov11\obj\Debug\netcoreapp3.1\nov11.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\nov11\nov11\obj\Debug\netcoreapp3.1\nov11.dll
+C:\Users\vgudipati\source\repos\nov11\nov11\obj\Debug\netcoreapp3.1\nov11.pdb
+C:\Users\vgudipati\source\repos\nov11\nov11\obj\Debug\netcoreapp3.1\nov11.genruntimeconfig.cache

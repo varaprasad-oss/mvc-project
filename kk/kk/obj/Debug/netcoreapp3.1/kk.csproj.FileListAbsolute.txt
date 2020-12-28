@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\kk\kk\bin\Debug\netcoreapp3.1\kk.exe
+C:\Users\vgudipati\source\repos\kk\kk\bin\Debug\netcoreapp3.1\kk.deps.json
+C:\Users\vgudipati\source\repos\kk\kk\bin\Debug\netcoreapp3.1\kk.runtimeconfig.json
+C:\Users\vgudipati\source\repos\kk\kk\bin\Debug\netcoreapp3.1\kk.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\kk\kk\bin\Debug\netcoreapp3.1\kk.dll
+C:\Users\vgudipati\source\repos\kk\kk\bin\Debug\netcoreapp3.1\kk.pdb
+C:\Users\vgudipati\source\repos\kk\kk\obj\Debug\netcoreapp3.1\kk.csprojAssemblyReference.cache
+C:\Users\vgudipati\source\repos\kk\kk\obj\Debug\netcoreapp3.1\kk.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\kk\kk\obj\Debug\netcoreapp3.1\kk.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\kk\kk\obj\Debug\netcoreapp3.1\kk.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\kk\kk\obj\Debug\netcoreapp3.1\kk.dll
+C:\Users\vgudipati\source\repos\kk\kk\obj\Debug\netcoreapp3.1\kk.pdb
+C:\Users\vgudipati\source\repos\kk\kk\obj\Debug\netcoreapp3.1\kk.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\bin\Debug\netcoreapp3.1\ConsoleApp111.exe
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\bin\Debug\netcoreapp3.1\ConsoleApp111.deps.json
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\bin\Debug\netcoreapp3.1\ConsoleApp111.runtimeconfig.json
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\bin\Debug\netcoreapp3.1\ConsoleApp111.runtimeconfig.dev.json
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\bin\Debug\netcoreapp3.1\ConsoleApp111.dll
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\bin\Debug\netcoreapp3.1\ConsoleApp111.pdb
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\obj\Debug\netcoreapp3.1\ConsoleApp111.AssemblyInfoInputs.cache
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\obj\Debug\netcoreapp3.1\ConsoleApp111.AssemblyInfo.cs
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\obj\Debug\netcoreapp3.1\ConsoleApp111.csproj.CoreCompileInputs.cache
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\obj\Debug\netcoreapp3.1\ConsoleApp111.dll
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\obj\Debug\netcoreapp3.1\ConsoleApp111.pdb
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\obj\Debug\netcoreapp3.1\ConsoleApp111.genruntimeconfig.cache
+C:\Users\vgudipati\source\repos\ConsoleApp111\ConsoleApp111\obj\Debug\netcoreapp3.1\ConsoleApp111.csprojAssemblyReference.cache

@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title> creation of table </title>
+    <style>
+        table{
+            border-collapse:collapse;
+            border:px solid green
+        }
+        td{
+            color:red;
+            background-color:green;
+        }
+    </style>
+</head>
+<body>
+    <script language="javascript" type="text/javascript">
+        function TestFunction() {
+            alert(document.getElementById("lblText").innerHTML);
+        }
+    </script>
+    <label id="lblText">acccsing id value name</label>
+    <input type="button" id="btnTest" onclick="TestFunction()" value="Click me" />
+
+</body>
+
+</html>
